@@ -1,0 +1,19 @@
+{
+  "name": "bangbot",
+  "version": "1.0.0",
+  "description": "Bot desarrollado por ! Jerickk24#8450 para Zxyretrohackyxz#0137 por Magma Developments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "By Magma Developments for ! Jerickk24#8450",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "path": "^0.12.7",
+    "promisify": "^0.0.3"
+  }
+}
