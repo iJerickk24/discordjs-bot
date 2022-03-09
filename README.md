@@ -19,4 +19,4 @@
 ║    ----------| discord.gg/QgTVZN6ra5 |----------    ║
 ╚═════════════════════════════════════════════════════╝
 
-# SI VAS A USAR ESTE BOT DANOS CREDITOS :D
+# SI VAS A USAR ESTE BOT DANOS CREDITOS ^^
